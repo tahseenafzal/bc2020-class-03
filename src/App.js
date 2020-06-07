@@ -8,8 +8,8 @@ const App = () => {
         name="Tehseen Afzal"
         title="Studnet"
         course="Bootcamp 2020"
-        faculty="Sir Amir Pinger, Sir Muhammad Mohsin, Sir Bashir Ahmed and Sir Ameen Alam"
-        namangedBy="Panacloud"
+        faculity="Sir Amir Pinger, Sir Muhammad Mohsin, Sir Bashir Ahmed and Sir Ameen Alam"
+        manangedBy="Panacloud"
         thanksTo="Sir Ziaullah Khan"
       />
     </div>
