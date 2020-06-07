@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Student from "./Component/Student";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Student
+        name="Tehseen Afzal"
+        title="Studnet"
+        course="Bootcamp 2020"
+        faculty="Sir Amir Pinger, Sir Muhammad Mohsin, Sir Bashir Ahmed and Sir Ameen Alam"
+        namangedBy="Panacloud"
+        thanksTo="Sir Ziaullah Khan"
+      />
     </div>
   );
-}
+};
 
 export default App;
