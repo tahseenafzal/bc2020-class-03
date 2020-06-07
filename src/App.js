@@ -9,7 +9,7 @@ const App = () => {
         title="Studnet"
         course="Bootcamp 2020"
         faculity="Sir Amir Pinger, Sir Muhammad Mohsin, Sir Bashir Ahmed and Sir Ameen Alam"
-        manangedBy="Panacloud"
+        managedBy="Panacloud"
         thanksTo="Sir Ziaullah Khan"
       />
     </div>
